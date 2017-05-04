@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub of Yan QiDong
 
-You can use the [editor on GitHub](https://github.com/yanqd0/yanqd0.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Profile
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a code monkey who want to be awesome.
 
-### Markdown
+| Name         | Yan QiDong (晏启东)   |
+| ----         | -------------------   |
+| Gender       | Male                  |
+| Birth        | 1989-10               |
+| Native Place | Guizhou, China        |
+| Recent Place | Xiamen, Fujian, China |
+| Email        | <yanqd0@outlook.com>  |
+| Phone        | +86 151xxxxx749       |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Education Experience
 
-```markdown
-Syntax highlighted code block
+I studied for 7 years in Xi'an, Shaanxi Province,
+and eventually got a master's degree.
 
-# Header 1
-## Header 2
-### Header 3
+| University          | Major                             | Degree   | Period          |
+| ----------          | -----                             | ------   | ------          |
+| [Xidian] University | Electronic Science and technology | bachelor | 2007.9 ~ 2011.6 |
+| [Xidian] University | Materials engineering             | Master   | 2011.9 ~ 2014.3 |
 
-- Bulleted
-- List
+[Xidian]:http://www.xidian.edu.cn/
 
-1. Numbered
-2. List
+## Work Experience
 
-**Bold** and _Italic_ and `Code` text
+Since graduated, I am working as a software engineer in Xiamen site, belongs to the Mobile Business Group of [Lenovo], up to now.
 
-[Link](url) and ![Image](src)
-```
+| Period   | Company  | Position          |
+| ------   | -------  | --------          |
+| 2014.4 ~ | [Lenovo] | Software Engineer |
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Lenovo]:http://www.lenovo.com.cn/
 
-### Jekyll Themes
+## GitHub Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yanqd0/yanqd0.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I play in GitHub in my spare time.
+As time goes by, some creations are left.
 
-### Support or Contact
+- [vimfiles] --
+    My personal vim configurations.
+- [android-log.vim] --
+    A simple syntax highlight plugin for Android logs.
+- [snippets-for-vim] --
+    Some general snippets in Vim.
+- [docker-gitbook] --
+    The smallest gitbook docker image built from Alpine.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[vimfiles]:http://github.qidong.name/vimfiles/
+[android-log.vim]:http://github.qidong.name/android-log.vim/
+[snippets-for-vim]:http://github.qidong.name/snippets-for-vim/
+[docker-gitbook]:http://github.qidong.name/docker-gitbook/
+
+## Organization
+
+I also have a GitHub organization [no-creativity] for fun.
+There may be some awesome projects there.
+
+- [AnVerGen] --
+    An automatic version generator for Android applications.
+- [ALog] --
+    A Log wrapper for Android applications.
+
+[no-creativity]:http://no-creativity.org/
+[AnVerGen]:http://no-creativity.org/AnVerGen/
+[ALog]:http://no-creativity.org/ALog/
