@@ -1,4 +1,4 @@
-# Welcome to GitHub of Yan QiDong
+# Welcome to the homepage of yanqd0 (Yan QiDong)
 
 ## Profile
 
